@@ -1,0 +1,102 @@
+Ex 1.
+
+Define integer 
+Define total 
+Define result
+
+Print "Enter the number"
+   Input integer
+total = integer + 5
+   Print total
+Result = total - 7
+   Print Result
+   
+Ex 2.
+
+Define number 1 
+Define number 2 
+Define number 3
+Define Total 
+
+Print " Enter the first number"
+    Input number 1
+Print " Enter the second number"
+	Input number 2
+Print "Enter the third number"
+	Input number 3
+Total = number 1 + number 2 + number 3
+	Print Total
+	
+Ex 3.
+define exam 1 score
+define exam 2 score
+define exam 3 score
+define exam 4 score
+define exam 5 score
+define exam 6 score
+define exam 7 score
+define exam 8 score
+define exam 9 score
+define exam 10 score
+define total
+define result
+
+Print "Enter the first number"
+	Input exam 1 score
+	
+Print "Enter the second number"
+	Input exam 2 score
+
+Print "Enter the third number"
+	Input exam 3 score
+
+Print "Enter the fourth number"
+	Input exam 4 score
+
+Print "Enter the fivth number"
+	Input exam 5 score
+
+Print "Enter the sixth number"
+	Input exam 6 score
+
+Print "Enter the seventh number"
+	Input exam 7 score
+
+Print "Enter the eight number"
+	Input exam 8 score
+
+Print "Enter the ninth number"
+	Input exam 9 score
+
+Print "Enter the tenth number"
+	Input exam 10 score
+	
+Total = exam 1 + 2 + 3 + 4+ 5 + 6 + 7 + 8 + 9 and 10 scores
+Print total
+
+result = total divided by 10
+Print result
+
+Ex 4.
+define length
+define width
+define inches of rainwater
+define total
+define result
+
+Print "Enter the first number"
+	Input length
+Print "Enter the second the number"
+	Input width
+Print " Enter the third the number"
+	Input inches of rainwater
+total = length * width * inches of rainwater
+	Print total
+result = total divided by 231
+	Print result
+
+	
+
+
+
+

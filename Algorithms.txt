@@ -1,0 +1,132 @@
+
+Exercise 1. Create a basic application
+Input:
+1.integer 
+
+Process:
+
+1.	prompt the user for the number
+	save the integer
+2.	sum integer and 5, 
+	save in total 
+3.	multiply total with 2 and 
+	save in result
+4. 	substract result from 7 
+
+	print results
+ 
+ Output:
+ Results
+
+ Exercise 2. Add three numbers and print the total
+ 
+ Input:
+ number 1
+ number 2
+ number 3
+ 
+ Process:
+1.	prompt user to for number 1
+ 	save the value in variable1
+2.	prompt the user to get number 2
+ 	save the value in variable2
+3.	prompt the user to get number 3
+	save the value in variable3
+4.	 sum number 1, number 2 and number 3, 
+	save results in total
+	
+	print total
+ 
+ Output:
+ Total
+ 
+ Exercise 3:
+ 
+ Input:
+ exam 1 score
+ exam 2 score
+ exam 3 score
+ exam 4 score
+ exam 5 score
+ exam 6 score
+ exam 7 score
+ exam 8 score
+ exam 9 score
+ exam 10 score
+ total number of scores
+ 
+ Process:
+1.	prompt the user for exam 1 score
+	save the exam 1 score in variable1
+ 
+2.	prompt the user for exam 2 score
+	save the exam 2 score in variable2
+
+3.	prompt the user for exam 3 score
+	save the exam 3 score in variable3
+
+4.	prompt the user for exam 4 score
+	save the exam 4 score in variable4
+
+5.	prompt the user for exam 5 score
+  save the exam 5 score in variable5
+
+6. prompt the user for exam 6 score
+	save the exam 6 score in variable6
+
+7.	prompt the user for exam 7 score
+	save the exam 7 score in variable7
+
+8.	prompt the user for exam 8 score
+	save the exam 8 score in variable8
+
+9.	prompt the user for exam 9 score
+	save the exam 9 score in variable9
+
+10.	prompt the user for exam 10 score
+	save the exam 10 score in variable10
+  
+11.	add score 1,2,3,4,5,6,7,8,9and 10
+	save added score in total
+  
+12.	divide total by 10
+	save the total value in average
+   
+Output
+   average
+ 
+ 
+ 
+ Exercise 4. How much water runs off the roof
+ 
+ Input:
+ length 
+ width 
+ number of inches of rainfall
+
+ 
+ Process:
+ 
+ 1. prompt the user for length of the roof 
+	save the value in variable1
+	convert the value into inches by multipling it with 12
+	save the value in variable2
+
+2. 	prompt the user for width of the roof
+	save the value in variable3
+	convert the value into inches by multipling it with 12
+	save the value in variable4
+
+3.	prompt the user for  number of inches of rainfall
+	save the value in variable5
+
+4.	multiply variable2, variable4 and variable5
+	save the value in result
+	
+5.	divide result by 231
+	save the value in  Total
+ 
+ print total
+ 
+ Output:
+ Total gallons of water
